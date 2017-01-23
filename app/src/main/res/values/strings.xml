@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Hexa RGB</string>
+
+    <string name="indianRed">Indian Red</string>
+    <string name="deepPink">Deep Pink</string>
+    <string name="orangeRed">Orange Red</string>
+    <string name="gold">Gold</string>
+    <string name="violet">Violet</string>
+    <string name="purple">Purple</string>
+    <string name="forestGreen">Forest Green</string>
+    <string name="teal">Teal</string>
+    <string name="turquoise">Turquoise</string>
+    <string name="cadetBlue">Cadet Blue</string>
+    <string name="sienna">Sienna</string>
+    <string name="brown">Brown</string>
+    <string name="maroon">Maroon</string>
+    <string name="antiqueWhite">Antique White</string>
+    <string name="silver">Silver</string>
+
+    <string name="black">0</string>
+    <string name="blackHexa">#000000</string>
+    <string name="white">255</string>
+
+</resources>
